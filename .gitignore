@@ -1,0 +1,1 @@
+echo "terraform-provider-azurerm_v3.84.0_x5" >> .gitignore
